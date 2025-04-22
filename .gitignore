@@ -1,0 +1,34 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Hugo cache files
+/.hugo_build.lock
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*~
+~$*
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node modules (if you use any JS tooling)
+node_modules/
+
+# Optional: environment vars
+.env
